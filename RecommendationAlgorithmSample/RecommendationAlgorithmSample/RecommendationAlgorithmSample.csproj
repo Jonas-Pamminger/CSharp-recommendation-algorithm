@@ -18,4 +18,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\pictures\samplePic\fashion.jpeg" />
+    <None Include="wwwroot\pictures\samplePic\logo.png" />
+    <None Include="wwwroot\pictures\samplePic\tech-products.jpg" />
+  </ItemGroup>
+
 </Project>
